@@ -5,9 +5,9 @@
 
 - 🤝 I am a Software Engineer holding a Double Degree in Software Engineering and Videogame Design and Development Degree with one year in the game development industry.
 
-- 🌱 I’m currently interested on game world generation and blockchain
+- 🌱 I’m currently interested on game world generation and blockchain.
 
-- 💬 Ask me any doubt in my main repositories Marching-cubes-on-Unity-3D
+- 💬 Ask me any doubt in my pinned repositories.
 
 - 📫 How to reach me javier.garzoperez@gmail.com
 

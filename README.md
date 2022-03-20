@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier Garzo</h1>
 <h3 align="center">A computer engineer and game developer, interested in practice sport and improve my programming skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javier-garzo&label=Profile%20views&color=0e75b6&style=flat" alt="javier-garzo" /> </p>
 
 - 🤝 I am a Software Engineer holding a Double Degree in Software Engineering and Videogame Design and Development Degree with one year in the game development industry.
 
